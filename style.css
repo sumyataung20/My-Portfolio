@@ -1,3 +1,15 @@
-h1{
-    color:red;
+*{
+    margin:0;
+    padding:0;
+}
+
+
+.header{
+    min-height:100vh;
+    width:100%;
+    background-image: linear-gradient
+    (rgb(255, 87, 51),rgb(253, 107, 76),rgb(107, 69, 60),url(./images/P1.jpg));
+    background-position: center ;
+    background-size:cover;
+    position: relative;
 }
